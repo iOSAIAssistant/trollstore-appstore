@@ -1,5 +1,5 @@
 <h1 align="center">TrollsMe TrollStore App Store</h1>
-<h3 align="center">Best App Store alternative for TrollStore</h3>
+<h4 align="center">Best App Store alternative for TrollStore</h4>
 
 <p align="center">
     <img src="https://github.com/iOSAIAssistant/trollstore-appstore/blob/main/Assets/TrollsMe%20App%20logo.png" alt="Logo" width="70" height="70"></img>
