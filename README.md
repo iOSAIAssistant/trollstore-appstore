@@ -14,7 +14,7 @@ TrollsMe serves as an excellent alternative to the iOS App Store specifically de
 - **Functionality:** Allows direct installation of TrollStore-compatible apps.
 - **Compatibility:**
     - Initially supported iOS versions: 14.0 to 15.4.1.
-    - With the release of TrollStore 2, compatibility extends to iOS 15.5 through iOS 16.6.1 and even the upcoming iOS 17.012.
+    - With the release of TrollStore 2, compatibility extends to iOS 15.5 through iOS 16.6.1 and even the upcoming iOS 17.0.
 
 Enjoy exploring the TrollsMe TrollStore App Store and discovering exciting apps!
 
