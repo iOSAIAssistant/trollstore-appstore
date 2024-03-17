@@ -28,7 +28,7 @@ You can directly install the TrollsMe TrollStore App Store via iOSPack for iOS 1
 
 📥 [Download TrollsMe TrollStore](https://iospack.com/apps/trollsme-trollstore/)
 <br>
-📥 [Download TrollsMe TrollStore](https://iospack.com/vip)
+📥 [Direct Download TrollsMe TrollStore App Store](https://iospack.com/vip)
 
 </div>
 
